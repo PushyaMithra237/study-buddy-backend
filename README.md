@@ -76,9 +76,7 @@ Server will run at `http://localhost:3500`
 
 ---
 
-## 👥 Contributors
-- **Pushya Mithra** – Backend Dev
-- **Team Members** – Frontend, JWT, Messaging
+
 
 ---
 
